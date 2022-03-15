@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ExemploInternacionalizacao</string>
+    <string name="hello_world">Olá Mundo</string>
+    <string name="tv_nome">Nome</string>
+    <string name="hint_txt_nome">Digite seu nome</string>
+    <string name="btn_mensagem">Mensagem</string>
+    <string name="str_msg">Olá</string>
 </resources>
