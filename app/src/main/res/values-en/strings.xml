@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Internationalization</string>
+    <string name="app_name">Internacionalization</string>
     <string name="hello_world">Hello World</string>
+    <string name="tv_nome">Name</string>
+    <string name="hint_txt_nome">Enter your name</string>
+    <string name="btn_mensagem">Message</string>
+    <string name="str_msg">Hello</string>
 </resources>
